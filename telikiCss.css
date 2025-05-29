@@ -1,0 +1,56 @@
+body {
+  font-family: 'Lato';
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin: 0;
+}
+
+h3 {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+#artworkDiv {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+#artworkList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#artworkList li {
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #e9ecef;
+  border-radius: 6px;
+}
+
+#artworkList img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  display: block;
+  margin-top: 10px;
+}
+
+#getbtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+}
+
+div {
+  margin-top: 20px;
+}
+
+
+#getbtn:hover {
+  background-color: #c9250f;
+  border-color: #dde1e5;
+}
